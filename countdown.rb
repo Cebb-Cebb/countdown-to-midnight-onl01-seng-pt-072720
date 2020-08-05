@@ -4,6 +4,7 @@ require 'pry'
 
 
 def countdown
+  binding.pry
   while 
   
   
